@@ -1,16 +1,46 @@
-# suitmedia_mobile_apps
+# Suitmedia Internship Technical Task
 
-A new Flutter project.
+This project is developed as part of the technical task for the Suitmedia Internship. It is a Flutter application that showcases the usage of Riverpod as the state management solution.
+
+## Project Overview
+
+The goal of this project is to demonstrate proficiency in building a Flutter application with Riverpod. The application showcases the following features:
+
+- Fetching a paginated list of users from an API endpoint.
+- Displaying the list of users in a paginated manner.
+- Selecting a user and displaying detailed user information.
+
+## Screenshots
+
+Here are some screenshots of the application:
+
+![First Page](screenshots/screenshot1.png)
+*First Page*
+
+![Second Page](screenshots/screenshot2.png)
+*Second Page*
+
+![Third Page](screenshots/screenshot3.png)
+*Third Page*
+
+## Prerequisites
+
+Before running the project, ensure that you have Flutter and Dart installed on your development machine.
+
+- Flutter installation guide: [Flutter Documentation](https://flutter.dev/docs/get-started/install)
+- Dart installation guide: [Dart Documentation](https://dart.dev/get-dart)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/your-username/suitmedia-internship-task.git
+2. Change directory to the project folder:
+    ```bash
+    cd suitmedia-internship-task
+3. Install the dependencies using the following command:
+   ```bash
+   flutter pub get
+4. Run the application using the following command:
+   ```bash
+   flutter run
