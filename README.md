@@ -14,13 +14,13 @@ The goal of this project is to demonstrate proficiency in building a Flutter app
 
 Here are some screenshots of the application:
 
-![First Page](screenshots/screenshot1.png)
+![First Page](screenshots/firstpage.jpeg)
 *First Page*
 
-![Second Page](screenshots/screenshot2.png)
+![Second Page](screenshots/secondpage.jpeg)
 *Second Page*
 
-![Third Page](screenshots/screenshot3.png)
+![Third Page](screenshots/thirdpage.jpeg)
 *Third Page*
 
 ## Prerequisites
